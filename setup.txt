@@ -1,0 +1,18 @@
+
+install anacona 32 bit version
+get pip
+https://bootstrap.pypa.io/get-pip.py
+python get-pip.py
+
+mysqldb
+https://pypi.python.org/pypi/MySQL-python
+
+
+pip install pymongo
+pip install mechanize
+pip install validate_email
+pip install tzlocal
+pip install Beautifulsoup
+pip install mock
+
+pip install ta-lib
