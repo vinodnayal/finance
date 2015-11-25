@@ -16,5 +16,6 @@ pip install Beautifulsoup
 pip install mock
 
 pip install ta-lib
+pip install feedparser
 
 
