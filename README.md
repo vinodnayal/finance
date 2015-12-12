@@ -1,5 +1,5 @@
 
--- different assets 
+# different assets 
 table name : assets
 US Equities	LargeCap
 US Equities	MidCap
@@ -24,7 +24,7 @@ ETF	Utilities
 Indices	Indices
 ETF	International mkts
 
--- sectors
+#sectors
 table name :  sectors
 XLB	Materials	1
 XLF	Financial	4
@@ -35,9 +35,12 @@ XLV	Healthcare	5
 XLP	Consumer stp.	3
 XLY	Consumer Dis.	7
 
--- performance returns across diff time period , it contains prices at
+# performance returns across diff time period , it contains prices at
 monthly,quarterly,yearly level
 table name : perf_returns
+
+
+
 
 
 
