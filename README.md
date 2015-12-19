@@ -1,4 +1,7 @@
 
+## finance data
+http://www.jarloo.com/yahoo_finance/
+
 # different assets 
 table name : assets
 
