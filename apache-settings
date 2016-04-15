@@ -6,6 +6,12 @@ C:\Program Files (x86)\Ampps\apache\conf
 Include conf/extra/httpd-mpm.conf 
 
 
+
+AcceptFilter http none
+AcceptFilter https none
+
+
+
 <IfModule mpm_winnt_module>
     ThreadsPerChild      1000
     MaxRequestsPerChild    0
